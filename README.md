@@ -1,15 +1,15 @@
 # Petshop-2
 
-Projeto criado em um dos cursos de JavaScript da Alura para aprender sobre CRUD com JavaScript assíncrono. <br />
+Project created in one of Alura's JavaScript courses to learn about CRUD with asynchronous JavaScript. <br />
 
-Nele aprendi: <br />
+In it I learned how: <br />
 
-- A criar um CRUD utilizando o método fetch e os verbos HTTP;
-- A consumir dados de uma API e exibir no front-end;
-- Como utilizar o método fetch para consumir dados de uma API;
-- A manipular os verbos HTTP através do método fetch;
-- Como funcionam as promises no JavaScript.
-
+- To create a CRUD using the fetch method and HTTP verbs;
+- To consume data from an API and displaying it on the front-end;
+- To use the fetch method to consume data from an API;
+- To manipulate HTTP verbs through the fetch method;
+- Promises work in JavaScript.
+  
 # Overview
 
 ![](./assets/gifs/default.gif)
@@ -22,7 +22,9 @@ $ git clone https://github.com/velleeda/Petshop-2
 
 # Go to the directory
 $ cd Petshop-2
-
+```
+  
+```
 # Install Dependencies
 $ npm install
 
